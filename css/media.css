@@ -166,4 +166,10 @@
 		width: 75%;
 		margin-bottom: 30px;
 	}
+	header ul.primary-nav li a span{
+		display: none
+	}
+	nav ul.primary-nav li a{
+		margin-right: 0
+	}
 }
